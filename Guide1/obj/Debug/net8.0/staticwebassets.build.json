@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "UByg60FK3PXh9ngbzMe8Tics6NWzpiynWfFu+PoTtv8=",
+  "Source": "Guide1",
+  "BasePath": "_content/Guide1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Guide1\\wwwroot",
+      "Source": "Guide1",
+      "ContentRoot": "c:\\Users\\dawso\\OneDrive\\Desktop\\Comp Sci Projects\\C# Guide\\C-Test\\Guide1\\wwwroot\\",
+      "BasePath": "_content/Guide1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "c:\\Users\\dawso\\OneDrive\\Desktop\\Comp Sci Projects\\C# Guide\\C-Test\\Guide1\\wwwroot\\index.html",
+      "SourceId": "Guide1",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\dawso\\OneDrive\\Desktop\\Comp Sci Projects\\C# Guide\\C-Test\\Guide1\\wwwroot\\",
+      "BasePath": "_content/Guide1",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
