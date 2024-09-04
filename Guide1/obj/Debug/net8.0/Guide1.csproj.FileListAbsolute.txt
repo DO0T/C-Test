@@ -50,3 +50,6 @@ c:\Users\dawso\OneDrive\Desktop\Comp Sci Projects\C# Guide\C-Test\Guide1\obj\Deb
 c:\Users\dawso\OneDrive\Desktop\Comp Sci Projects\C# Guide\C-Test\Guide1\obj\Debug\net8.0\Guide1.pdb
 c:\Users\dawso\OneDrive\Desktop\Comp Sci Projects\C# Guide\C-Test\Guide1\obj\Debug\net8.0\Guide1.genruntimeconfig.cache
 c:\Users\dawso\OneDrive\Desktop\Comp Sci Projects\C# Guide\C-Test\Guide1\obj\Debug\net8.0\ref\Guide1.dll
+c:\Users\dawso\OneDrive\Desktop\Comp Sci Projects\C# Guide\C-Test\Guide1\obj\Debug\net8.0\Guide1.RazorAssemblyInfo.cache
+c:\Users\dawso\OneDrive\Desktop\Comp Sci Projects\C# Guide\C-Test\Guide1\obj\Debug\net8.0\Guide1.RazorAssemblyInfo.cs
+c:\Users\dawso\OneDrive\Desktop\Comp Sci Projects\C# Guide\C-Test\Guide1\obj\Debug\net8.0\Guide1.sourcelink.json
